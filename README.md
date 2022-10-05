@@ -3,7 +3,7 @@
 
 ## About me 
 
-## ℹ️ Github Stats
+## ℹ️ Github Stats**
 <div align="center">
 <a href="https://github.com/phmelosilva">
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=phmelosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
