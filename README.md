@@ -1,4 +1,4 @@
-  <h1 align="center"> 👋 Hello! I'm Pedro Henrique and its good to see you here  <img width="40" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" alt="Jumping Cat" /> </h1>
+  <h1 align="center"> 👋 Hello! I'm Pedro Henrique and its good to see you here  <img width="40%" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" alt="Jumping Cat" /> </h1>
   
 
 ## About me 
