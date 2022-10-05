@@ -1,6 +1,4 @@
-  <h1 align="center"> 👋 Hello! I'm Pedro Henrique and its good to see you here  <img width="40" src="https://emojis.slackmojis.com/emojis/images/1565879801/6181/waving_hand_animated.gif?1565879801" alt="Waving Hand" /> </h1>
-
-  <img align="right" width="30%" src="https://tenor.com/view/pixel-cat-gif-25950025" alt="Basecamp sky" />
+  <h1 align="center"> 👋 Hello! I'm Pedro Henrique and its good to see you here  <img width="40" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" alt="Jumping Cat" /> </h1>
   
 
 ## About me 
