@@ -3,11 +3,13 @@
 
 ## About me 
 
+
+
 ## ℹ️ Github Stats**
-<div align="center">
+<div>
 <a href="https://github.com/phmelosilva">
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=phmelosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmelosilva&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phmelosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmelosilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Languages I use and learn
@@ -23,7 +25,7 @@
   
 ##
 
-## Contacts
+## Contact
   <div> 
 <a href="https://www.linkedin.com/in/phmelosilva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:pedrodsm1819@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
