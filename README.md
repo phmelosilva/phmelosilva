@@ -1,13 +1,13 @@
-  <h1 align="center"> 👋 Hello! I'm Pedro Henrique and its good to see you here  <img width="10%" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" alt="Jumping Cat" /> </h1>
+  <h1 align="center"> 👋 Hello! I'm Pedro Henrique and it's good to see you here  <img width="10%" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" alt="Jumping Cat" /> </h1>
   
 
 ## About me 
 
 ## ℹ️ Github Stats
-<div>
+<div align="center">
 <a href="https://github.com/phmelosilva">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phmelosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmelosilva&layout=compact&langs_count=7&theme=dracula"/>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=phmelosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmelosilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Languages I use and learn
