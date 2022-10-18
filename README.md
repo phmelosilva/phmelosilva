@@ -1,7 +1,21 @@
   <h1 align="center"> 👋 Hello! I'm Pedro Henrique and it's good to see you here  <img width="10%" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" alt="Jumping Cat" /> </h1>
   
+<img align="right" width="30%" src="https://media.tenor.com/DVXNuYXLyGUAAAAC/raining-pixel.gif" alt="Basecamp sky" />
 
+## <img width="10%" src="https://media.tenor.com/eFDyVHXgxL0AAAAi/metal-sonic-pixelated.gif" alt="Metal Sonic" />  **Welcome to my page 🔭**
 
+ <p> 
+       🧑🏻‍💻 I'm Pedro Henrique da Silva Melo, a software engineering student at the <a style="text-decoration:none;" href="http://www.unb.br"> Universidade de Brasília (UnB) </a>, I am currently 20 years old and I live in Brazil 🇧🇷
+  </p>
+
+  ***
+ 
+  ## **✨ About me**
+  - 📝 I'm looking to learn about the various niches of software engineering
+  - 🤔 I like how technology can transform and improve people's lives
+  - 😄 Outside the computer I like to play volleyball and tennis and listen to music!
+
+  ***
 
 
 ## ℹ️ Github Stats
