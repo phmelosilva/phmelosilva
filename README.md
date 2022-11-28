@@ -2,7 +2,7 @@
   
 <img align="right" width="30%" src="https://media.tenor.com/DVXNuYXLyGUAAAAC/raining-pixel.gif" alt="Basecamp sky" />
 
-## <img width="10%" src="https://media.tenor.com/eFDyVHXgxL0AAAAi/metal-sonic-pixelated.gif" alt="Metal Sonic" />  **Welcome to my page 🔭**
+**Welcome to my page 🔭**
 
  <h3> 
        🧑🏻‍💻 I'm Pedro Henrique da Silva Melo, a software engineering student at the <a style="text-decoration:none;" href="http://www.unb.br"> Universidade de Brasília (UnB) </a>, I am currently 20 years old and I live in Brazil 🇧🇷
