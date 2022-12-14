@@ -1,6 +1,6 @@
   <h1 align="center"> 👋 Hello! I'm Pedro Henrique and it's good to see you here  <img width="10%" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" alt="Jumping Cat" /> </h1>
   
-<img align="right" width="30%" src="https://media.tenor.com/DVXNuYXLyGUAAAAC/raining-pixel.gif" alt="Basecamp sky" />
+<img align="right" width="20%" src="https://media.tenor.com/DVXNuYXLyGUAAAAC/raining-pixel.gif" alt="Basecamp sky" />
 
 **Welcome to my page 🔭**
 
