@@ -5,7 +5,7 @@
 **Welcome to my page 🔭**
 
  <h3> 
-       🧑🏻‍💻 I'm Pedro Henrique da Silva Melo, a software engineering student at the <a style="text-decoration:none;" href="http://www.unb.br"> Universidade de Brasília (UnB) </a>, I am currently 20 years old and I live in Brazil 🇧🇷
+       🧑🏻‍💻 I'm Pedro Henrique da Silva Melo, a software engineering student at the <a style="text-decoration:none;" href="http://www.unb.br"> Universidade de Brasília (UnB) </a>, I am currently 21 years old and I live in Brazil 🇧🇷
   </h3>
 
   ***
