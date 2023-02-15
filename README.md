@@ -16,6 +16,11 @@
   - 😄 Outside the computer I like to play volleyball and tennis and listen to music!
 
   ***
+  
+  ## **:heavy_exclamation_mark: My Main Skills**
+  
+  - :muscle: Willing to always be learning and evolving every day, even skills beyond the scope of Software Engineering when needed.
+  - :dart: Strategic planning and strategic vision applied to projets and work, as well as leadership development.
 
 
 ## ℹ️ Github Stats
