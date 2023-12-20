@@ -9,8 +9,6 @@
 
 
   ## **About me**
-  <img align="right" width="270px" src="https://media.tenor.com/DVXNuYXLyGUAAAAC/raining-pixel.gif" alt="Raining" />
-
   💚 I currently work at the junior company <a style="text-decoration:none;" href="https://orcestra.com.br/"> Orc'estra Gamificação. </a>
 
   🎮 Also, I'm 21 years old and I love playing and watching anime, especially One Piece and Dragon Ball
