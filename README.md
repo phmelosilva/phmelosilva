@@ -1,23 +1,31 @@
-  <h1 align="center"> 👋 Hello! I'm Pedro Henrique but you can call me PH <img width="10%" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" alt="Jumping Cat" /> </h1>
+  <h2 align="center"> 👋 Hello! I'm Pedro Henrique but you can call me PH  <br> 👋 Olá Eu sou o Pedro Henrique mas você pode me chamar de PH <img width="10%" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif" alt="Jumping Cat" /> </h2>
 
 
  <p align="center"> 
-       🧑🏻‍💻 I am currently a software engineering student at the <a style="text-decoration:none;" href="http://www.unb.br"> Universidade de Brasília (UnB) </a> and I live in Brazil 🇧🇷
+       🧑🏻‍💻 I am currently a software engineering student at the <a style="text-decoration:none;" href="http://www.unb.br"> Universidade de Brasília (UnB) </a> and I live in Brazil 🇧🇷  
+  
+   <p align="center" > Atualmente sou estudante de engenharia de software na <a style="text-decoration:none;" href="http://www.unb.br"> Universidade de Brasília (UnB) </a> e moro no Brasil 🇧🇷 </p>
   </p>
 
 
 
 
   ## **About me**
-  💚 I currently work at the junior company <a style="text-decoration:none;" href="https://orcestra.com.br/"> Orc'estra Gamificação. </a>
+  💚 I currently work at the junior company <a style="text-decoration:none;" href="https://orcestra.com.br/"> **Orc'estra Gamificação**. </a>
+  
+  💚 Atualmente atuo ativamente na empresa júnior <a style="text-decoration:none;" href="https://orcestra.com.br/"> **Orc'estra Gamificação**. </a>
 
-  🎮 Also, I'm 21 years old and I love playing and watching anime, especially One Piece and Dragon Ball
+  🎮 Also, I'm 22 years old and I love playing videogames and watching anime 
+
+  🎮 Além disso, tenho 22 anos e amo jogar videogames e assistir anime
    
-  🏋🏻 I'm learning programming, more specifically React and Node.js, to develop my hard skills and start my professional career
+  🏋🏻 I'm studying **React.js** and **Figma**
 
-  📚 I'm studying the 6th semester of the university, looking for new knowledge of software engineering
+  🏋🏻 Atualmente estudando **React.js** e **Figma**
 
-    
+  📚 I'm studying the 7th semester of the university, looking for new knowledge of software engineering
+
+  📚 Estou estudando no 7° semestre da faculdade, buscando por novos conhecimentos em engenharia de software
 
 </br>
 </br>
@@ -36,7 +44,7 @@
 </br>
 </br>
 
-## Languages, frameworks and tools I've studied or worked with
+## Languages, frameworks and tools I've studied or worked with / Linguagens, frameworks e ferramentas que estudei ou que já trabalhei
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -51,7 +59,7 @@
                           
   </div>
 
-## Contact
+## Contact / Contato
   <div> 
 <a href="https://www.linkedin.com/in/phmelosilva/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:pedrodsm1819@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
