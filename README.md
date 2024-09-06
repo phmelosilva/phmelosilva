@@ -11,9 +11,9 @@
 
 
   ## **About me**
-  💚 I currently work at the junior company <a style="text-decoration:none;" href="https://orcestra.com.br/"> **Orc'estra Gamificação**. </a>
+  💚 junior company post-junior <a style="text-decoration:none;" href="https://orcestra.com.br/"> **Orc'estra Gamificação**. </a>
   
-  💚 Atualmente atuo ativamente na empresa júnior <a style="text-decoration:none;" href="https://orcestra.com.br/"> **Orc'estra Gamificação**. </a>
+  💚Pós-junior da empresa júnior <a style="text-decoration:none;" href="https://orcestra.com.br/"> **Orc'estra Gamificação**. </a>
 
   🎮 Also, I'm 22 years old and I love playing videogames and watching anime 
 
