@@ -18,14 +18,10 @@
   🎮 Also, I'm 22 years old and I love playing videogames and watching anime 
 
   🎮 Além disso, tenho 22 anos e amo jogar videogames e assistir anime
-   
-  🏋🏻 I'm studying **React.js** and **Figma**
 
-  🏋🏻 Atualmente estudando **React.js** e **Figma**
+  📚 I'm studying the 8th semester of the university, looking for new knowledge of software engineering
 
-  📚 I'm studying the 7th semester of the university, looking for new knowledge of software engineering
-
-  📚 Estou estudando no 7° semestre da faculdade, buscando por novos conhecimentos em engenharia de software
+  📚 Estou estudando no 8° semestre da faculdade, buscando por novos conhecimentos em engenharia de software
 
 </br>
 </br>
