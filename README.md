@@ -15,9 +15,9 @@
   
   💚Pós-junior da empresa júnior <a style="text-decoration:none;" href="https://orcestra.com.br/"> **Orc'estra Gamificação**. </a>
 
-  🎮 Also, I'm 22 years old and I love playing videogames and watching anime 
+  🎮 Also, I'm 23 years old and I love playing videogames and watching anime 
 
-  🎮 Além disso, tenho 22 anos e amo jogar videogames e assistir anime
+  🎮 Além disso, tenho 23 anos e amo jogar videogames e assistir anime
 
   📚 I'm studying the 8th semester of the university, looking for new knowledge of software engineering
 
